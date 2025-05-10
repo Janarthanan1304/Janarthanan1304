@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Janarthanan S</h1>
-<h3 align="center">A passionate Computer Science student from India 🇮🇳</h3>
+<h3 align="center">A passionate Computer Science student</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-Hello! I'm Janarthanan S, a driven and curious Computer Science student from India.  
+Hello! I'm Janarthanan S, a driven and curious Computer Science student.  
 I'm passionate about turning ideas into reality through code and eager to apply my skills in real-world scenarios. I'm continuously learning and keeping up with the fast-evolving tech landscape.
 
 ---
@@ -66,4 +66,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/janarrtha
 
 ---
 
-<p align="center">Thanks for stopping by! 🙏</p>
+<p align="center">Let’s connect and create cool things! 💥</p>
