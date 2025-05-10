@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
- <img src="https://cdn.dribbble.com/users/1162077/screenshots/5568384/media/2c0b019a5d8e9f5b9e6c3f0c7a1f3a3b.gif" width="270" />
+ <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="270" />
 </p>
 
 ---
