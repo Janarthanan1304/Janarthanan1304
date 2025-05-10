@@ -8,8 +8,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 </p>
 
----
-
 Hello! I'm Janarthanan S, a driven and curious Computer Science student.  
 I'm passionate about turning ideas into reality through code and eager to apply my skills in real-world scenarios. I'm continuously learning and keeping up with the fast-evolving tech landscape.
 
